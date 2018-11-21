@@ -4,3 +4,5 @@ Free Code Camp Question
 # select all array to apply css and other all style 
 # select one array to apply all elements
 # one by one apply styles
+
+
